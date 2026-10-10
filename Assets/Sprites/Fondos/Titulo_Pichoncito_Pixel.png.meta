@@ -1,0 +1,574 @@
+fileFormatVersion: 2
+guid: 001d7c3ab4a80324d8dd3630c845b7b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3479642835443902169
+    second: Titulo_Pichoncito_Pixel_0
+  - first:
+      213: 930529697603840204
+    second: Titulo_Pichoncito_Pixel_1
+  - first:
+      213: -2161422193912219437
+    second: Titulo_Pichoncito_Pixel_2
+  - first:
+      213: 7565169420187914241
+    second: Titulo_Pichoncito_Pixel_3
+  - first:
+      213: -7910070931652481075
+    second: Titulo_Pichoncito_Pixel_4
+  - first:
+      213: 3407470557480185399
+    second: Titulo_Pichoncito_Pixel_5
+  - first:
+      213: 858250101799361947
+    second: Titulo_Pichoncito_Pixel_6
+  - first:
+      213: 362532667226933440
+    second: Titulo_Pichoncito_Pixel_7
+  - first:
+      213: 3252887643516307138
+    second: Titulo_Pichoncito_Pixel_8
+  - first:
+      213: 272862402929219219
+    second: Titulo_Pichoncito_Pixel_9
+  - first:
+      213: 1248894186915751528
+    second: Titulo_Pichoncito_Pixel_10
+  - first:
+      213: 7163835837451818273
+    second: Titulo_Pichoncito_Pixel_11
+  - first:
+      213: -8676826094324654589
+    second: Titulo_Pichoncito_Pixel_12
+  - first:
+      213: 8578840862913573748
+    second: Titulo_Pichoncito_Pixel_13
+  - first:
+      213: 1658319458330842835
+    second: Titulo_Pichoncito_Pixel_14
+  - first:
+      213: 5021681995919847382
+    second: Titulo_Pichoncito_Pixel_15
+  - first:
+      213: -6502186126902131506
+    second: Titulo_Pichoncito_Pixel_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Titulo_Pichoncito_Pixel_0
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 209
+        width: 104
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6eddf09bc2a4030800000000000000
+      internalID: 3479642835443902169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Titulo_Pichoncito_Pixel_1
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 209
+        width: 44
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8e0ae64d7e9ec00800000000000000
+      internalID: 930529697603840204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Titulo_Pichoncito_Pixel_2
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 311
+        width: 80
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8773267f51102e0800000000000000
+      internalID: -2161422193912219437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Titulo_Pichoncito_Pixel_3
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 209
+        width: 98
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100d2f37181ecf860800000000000000
+      internalID: 7565169420187914241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Titulo_Pichoncito_Pixel_4
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 311
+        width: 92
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfe5b2a568c93290800000000000000
+      internalID: -7910070931652481075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Titulo_Pichoncito_Pixel_5
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 311
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e65312b64c94f20800000000000000
+      internalID: 3407470557480185399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Titulo_Pichoncito_Pixel_6
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 311
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d913e9bed19eb00800000000000000
+      internalID: 858250101799361947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Titulo_Pichoncito_Pixel_7
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 311
+        width: 80
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c849814a89f70500800000000000000
+      internalID: 362532667226933440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Titulo_Pichoncito_Pixel_8
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 209
+        width: 224
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c60c06c314942d20800000000000000
+      internalID: 3252887643516307138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Titulo_Pichoncito_Pixel_9
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 209
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396d727e8e669c300800000000000000
+      internalID: 272862402929219219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Titulo_Pichoncito_Pixel_10
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 209
+        width: 110
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866e92565a6f45110800000000000000
+      internalID: 1248894186915751528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Titulo_Pichoncito_Pixel_11
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 209
+        width: 98
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12557801dbe0b6360800000000000000
+      internalID: 7163835837451818273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Titulo_Pichoncito_Pixel_12
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 209
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e50f593a8b59780800000000000000
+      internalID: -8676826094324654589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Titulo_Pichoncito_Pixel_13
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 83
+        width: 338
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473b19aef4a2e0770800000000000000
+      internalID: 8578840862913573748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Titulo_Pichoncito_Pixel_14
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 83
+        width: 362
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d69dedd2c8830710800000000000000
+      internalID: 1658319458330842835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Titulo_Pichoncito_Pixel_15
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 83
+        width: 98
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dfe6c55b2990b540800000000000000
+      internalID: 5021681995919847382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Titulo_Pichoncito_Pixel_16
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 83
+        width: 224
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4868aea2893c5a0800000000000000
+      internalID: -6502186126902131506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Titulo_Pichoncito_Pixel_0: 3479642835443902169
+      Titulo_Pichoncito_Pixel_1: 930529697603840204
+      Titulo_Pichoncito_Pixel_10: 1248894186915751528
+      Titulo_Pichoncito_Pixel_11: 7163835837451818273
+      Titulo_Pichoncito_Pixel_12: -8676826094324654589
+      Titulo_Pichoncito_Pixel_13: 8578840862913573748
+      Titulo_Pichoncito_Pixel_14: 1658319458330842835
+      Titulo_Pichoncito_Pixel_15: 5021681995919847382
+      Titulo_Pichoncito_Pixel_16: -6502186126902131506
+      Titulo_Pichoncito_Pixel_2: -2161422193912219437
+      Titulo_Pichoncito_Pixel_3: 7565169420187914241
+      Titulo_Pichoncito_Pixel_4: -7910070931652481075
+      Titulo_Pichoncito_Pixel_5: 3407470557480185399
+      Titulo_Pichoncito_Pixel_6: 858250101799361947
+      Titulo_Pichoncito_Pixel_7: 362532667226933440
+      Titulo_Pichoncito_Pixel_8: 3252887643516307138
+      Titulo_Pichoncito_Pixel_9: 272862402929219219
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
